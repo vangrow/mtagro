@@ -8,50 +8,6 @@
 	url = git@github.com:OCA/account-financial-reporting.git
 	branch = 15.0
 
-[submodule "OCA/account-financial-tools"]
-	path = OCA/account-financial-tools
-	url = git@github.com:OCA/account-financial-tools.git
-	branch = 15.0
-
-[submodule "OCA/account-payment"]
-	path = OCA/account-payment
-	url = git@github.com:OCA/account-payment.git
-	branch = 15.0
-
-[submodule "OCA/bank-payment"]
-	path = OCA/bank-payment
-	url = git@github.com:OCA/bank-payment.git
-	branch = 15.0
-
-[submodule "OCA/bank-statement-import"]
-	path = OCA/bank-statement-import
-	url = git@github.com:OCA/bank-statement-import.git
-	branch = 15.0
-
-[submodule "OCA/brand"]
-	path = OCA/brand
-	url = git@github.com:OCA/brand.git
-	branch = 15.0
-
-[submodule "OCA/credit-control"]
-	path = OCA/credit-control
-	url = git@github.com:OCA/credit-control.git
-	branch = 15.0
-
-[submodule "OCA/crm"]
-	path = OCA/crm
-	url = git@github.com:OCA/crm.git
-	branch = 15.0
-
-[submodule "OCA/product-attribute"]
-	path = OCA/product-attribute
-	url = git@github.com:OCA/product-attribute.git
-	branch = 15.0
-
-[submodule "OCA/product-pack"]
-	path = OCA/product-pack
-	url = git@github.com:OCA/product-pack.git
-	branch = 15.0
 	
 
 
