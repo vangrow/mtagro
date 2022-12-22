@@ -141,3 +141,7 @@
 	path = ingadhoc/purchase
 	url = git@github.com:ingadhoc/purchase
 	branch = 15.0
+[submodule "OCA/account-financial-tools"]
+	path = OCA/account-financial-tools
+	url = git@github.com:OCA/account-financial-tools
+	branch = 15.0
