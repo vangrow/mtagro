@@ -145,3 +145,7 @@
 	path = OCA/account-financial-tools
 	url = git@github.com:OCA/account-financial-tools
 	branch = 15.0
+[submodule "leobozzi/cl-mtagro"]
+	path = leobozzi/cl-mtagro
+	url = git@github.com:leobozzi/cl-mtagro.git
+	branch = 15.0
