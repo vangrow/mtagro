@@ -145,8 +145,3 @@
 	path = OCA/account-financial-tools
 	url = git@github.com:OCA/account-financial-tools
 	branch = 15.0
-
-[submodule "leobozzi/cl-canal2"]
-	path = leobozzi/cl-canal2
-	url = git@github.com:leobozzi/cl-canal2.git
-	branch = 15.0
