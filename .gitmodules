@@ -156,3 +156,8 @@
 	path = OCA/currency
 	url = git@github.com:OCA/currency.git
 	branch = 15.0
+
+[submodule "OCA/sale-reporting"]
+	path = OCA/sale-reporting
+	url = git@github.com:OCA/sale-reporting.git
+	branch = 15.0
