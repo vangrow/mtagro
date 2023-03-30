@@ -161,3 +161,8 @@
 	path = OCA/sale-reporting
 	url = git@github.com:OCA/sale-reporting.git
 	branch = 15.0
+
+[submodule "Gabriel271088/base_currency_inverse_rate"]
+	path = Gabriel271088/base_currency_inverse_rate
+	url = git@github.com:Gabriel271088/base_currency_inverse_rate.git
+	branch = main
