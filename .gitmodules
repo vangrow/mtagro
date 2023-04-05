@@ -166,3 +166,8 @@
 	path = Gabriel271088/base_currency_inverse_rate
 	url = git@github.com:Gabriel271088/base_currency_inverse_rate.git
 	branch = main
+
+[submodule "OCA/account-invoicing"]
+	path = OCA/account-invoicing
+	url = git@github.com:OCA/account-invoicing.git
+	branch = 15.0
