@@ -142,3 +142,8 @@
 	path = leobozzi/cl-mtagro
 	url = git@github.com:leobozzi/cl-mtagro.git
 	branch = 15.0
+
+[submodule "vangrow/account-modules"]
+	path = vangrow/account-modules
+	url = git@github.com:vangrow/account-modules.git
+	branch = 15.0
