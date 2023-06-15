@@ -158,8 +158,3 @@
 	path = OCA/account-invoicing
 	url = git@github.com:OCA/account-invoicing.git
 	branch = 15.0
-
-[submodule "vangrow/account-modules"]
-	path = vangrow/account-modules
-	url = git@github.com:vangrow/account-modules.git
-	branch = 15.0
